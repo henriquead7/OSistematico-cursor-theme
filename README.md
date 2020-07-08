@@ -5,6 +5,8 @@ Este tema foi uma customização realizada há alguns anos, meu objetivo princip
 
 Alguns aspectos foram customizados, segue o [repositório oficial do projeto Deepin](https://github.com/linuxdeepin/deepin-cursor-theme) na qual me baseei.
 
+![Prévia Osistemático cursor theme](https://github.com/HenriqueAD7/OSistematico-cursor-theme/blob/master/Exemplo.png)
+
 ***
 
 ## Como utilizar
